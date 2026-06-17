@@ -4,25 +4,28 @@ Dashboard de RH desenvolvido em Power BI com modelagem de dados, Power Query e m
 ## Objetivo do Dashboard
 Identificar o maior número de faltas, o maior gasto entre as filiais e a soma dos salários para visualização clara na quantidade de gastos.
 
-## Principais Indicadores Averiguados
+## Principais Indicadores
 
 - Total de Faltas
 - Faltas por Departamento
 - Média de Gastos por Filial (salário)
 - Salário por Funcionário
-- Total de Despesas por Áreas
+- Total de Despesas por Área
+
+## Imagem Dashboard
+![Dashboard-RH-PowerBI](Dashboard.png)
+
+## Insights
+A área de Gerência apresentou o maior volume de despesas salariais e também uma das maiores quantidades de faltas registradas, indicando uma oportunidade para investigação mais detalhada dos fatores que impactam a eficiência operacional do setor.
 
 ## Tecnologias Utilizadas
 
+- Microsoft Power BI
 - Power Query
-- Dax
-- Gráficos
-- Filtros
+- DAX
+- Modelagem de Dados
 - Segmentações de Dados
-- Formatos e Imagens
-
-## Link Dashboard Online
-https://app.powerbi.com/groups/me/reports/b9585b37-c63e-4fd9-a7bd-3ec907a5d7c7/5f5b64d7d5ea4b48013a?experience=power-bi
+- Visualizações Interativas
 
 ## Arquivos
 - ProjetoDashboardRH.pbix
